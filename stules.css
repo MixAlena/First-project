@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  max-width: 940px;
+}
+
+img {
+  margin: 0 20px 0 20px;
+}
+
+h1 {
+  font-size: 30px;
+  color: rgb(90, 125, 230);
+  margin-left: 10px;
+}
+
+p {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+a {
+  font-size: 18px;
+  color: rgb(194, 76, 194);
+}
+
+h3 {
+  margin-left: 10px;
+}
+
+li {
+  margin-top: 5px;
+}
+
+.social {
+  margin-top: 20px;
+}
+
+.list {
+  color: rgb(194, 76, 194);
+  background-color: rgb(244, 227, 248);
+  border: 3px outset rgb(252, 238, 255);
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+form {
+  margin-left: 10px;
+}
+
+.projects {
+  margin-left: 10px;
+}
